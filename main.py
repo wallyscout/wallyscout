@@ -26,6 +26,8 @@ if (wrong==0):
   print(f"You got them all correct. {result[0]}")
 else:
   print(f"You got {wrong} out of {len(answers)} correct.  {result[1]}")
+
+  
   
 
 #To improve your portfolio, take it a step further and try to use visually appealing techniques #like ASCII Art to have your quiz show stand out!
